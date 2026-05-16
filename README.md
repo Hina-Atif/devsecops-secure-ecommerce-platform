@@ -110,6 +110,10 @@ Pipeline stages:
 
 <img width="1862" height="714" alt="s4" src="https://github.com/user-attachments/assets/53096e4f-cdd0-4c7e-b9c4-1333d6918f48" />
 
+<img width="1502" height="554" alt="s2" src="https://github.com/user-attachments/assets/a375711f-84b0-474f-a0c6-f85a2b1a80f1" />
+
+<img width="1416" height="332" alt="s3" src="https://github.com/user-attachments/assets/ce6f36f1-6717-4b4f-b0c7-1af8d3528e24" />
+
 ---
 - Docker 
 
