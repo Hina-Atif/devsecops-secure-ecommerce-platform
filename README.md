@@ -1,4 +1,4 @@
-# 🚀 DeployLynx DevSecOps CI/CD Pipeline
+# 🚀 # Natural Fit – DevSecOps Implementation for Secure E-commerce Platform
 
 A production-ready DevSecOps project built by **Hina Atif** demonstrating CI/CD automation, containerization, cloud deployment, and monitoring.
 
