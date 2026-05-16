@@ -4,15 +4,12 @@ A production-ready DevSecOps project built by **Hina Atif** demonstrating CI/CD 
 
 ---
 
-## 📌 Project Overview
+## 🚀 Project Overview
 
-This project demonstrates a full DevSecOps pipeline including:
+This project was developed as part of a real-world DevSecOps implementation for DeployLynx, delivering a secure and scalable e-commerce platform for Natural Fit.
 
-- Continuous Integration (CI)
-- Continuous Deployment (CD)
-- Security Scanning (Trivy)
-- Monitoring (Prometheus + Grafana)
-- Cloud Deployment (AWS EC2)
+The project demonstrates end-to-end DevSecOps practices including CI/CD, containerization, cloud deployment, and monitoring.
+
 
 ---
 
