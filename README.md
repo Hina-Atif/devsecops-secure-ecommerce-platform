@@ -94,6 +94,9 @@ Pipeline stages:
 
 📸 Screenshots
 
+<img width="1919" height="896" alt="Screenshot 2026-04-10 225348" src="https://github.com/user-attachments/assets/9c02db42-d44a-45f0-8b67-f9b1239f636a" />
+
+
 <img width="1150" height="343" alt="c2" src="https://github.com/user-attachments/assets/9599846f-61da-444d-befb-f056fb46a48b" />
 
 ---
